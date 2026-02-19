@@ -1,0 +1,18 @@
+# --- SEGURIDAD ---
+resources/config.properties
+resources/dsr.properties
+
+# --- ARCHIVOS COMPILADOS ---
+build/
+dist/
+out/
+*.class
+
+# --- NETBEANS ---
+nbproject/private/
+
+# --- LOGS Y SISTEMA ---
+logs/
+*.log
+.DS_Store
+Thumbs.db
