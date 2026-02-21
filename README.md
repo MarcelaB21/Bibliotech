@@ -86,3 +86,11 @@ El proyecto está estructurado bajo el patrón MVC (Modelo – Vista – Control
 ---
 
 Proyecto personal orientado a demostrar habilidades en desarrollo de aplicaciones de escritorio con Java, arquitectura por capas y gestión de bases de datos relacionales.
+
+---
+
+## Demo en video
+
+Demostración completa del funcionamiento del sistema disponible en el siguiente enlace:
+
+[Ver demostración del sistema](https://youtu.be/t1rlWAyUbrg)
