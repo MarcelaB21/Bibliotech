@@ -61,6 +61,12 @@ El proyecto simula un entorno real de gestión bibliotecaria, enfocado en manten
 
 El proyecto está estructurado bajo el patrón MVC (Modelo – Vista – Controlador) complementado con una capa DAO para la persistencia de datos, permitiendo una separación clara de responsabilidades y mayor mantenibilidad del código.
 
+---
+## Problema Resuelto
+
+BiblioTech fue desarrollado para centralizar y optimizar la gestión de bibliotecas, permitiendo administrar libros, lectores y préstamos de forma segura y organizada.
+
+El sistema implementa control de acceso por roles, validaciones independientes y una arquitectura MVC + DAO enfocada en mantenibilidad y separación de responsabilidades.
 
 ---
 
